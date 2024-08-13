@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo an alle Entwickler aus dem deutschsprachigem Raum
 
 <!--
 
