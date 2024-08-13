@@ -1,7 +1,7 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
-Ihr wollt euch ehrenamtlich, teilzeit oder vollzeit einbringen?  
-Hier findet ihr möglichkeiten:
+Du bist Christ und in der IT?
+Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich? :)
 
 # In Deutschland
 * [Crossload](https://crossload.org/info/unterstuetzen) - Portal für Predigten, Vorträge und Lehrmaterial - Ehrenamt
