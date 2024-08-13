@@ -4,12 +4,12 @@ Ihr wollt euch ehrenamtlich, teilzeit oder vollzeit einbringen?
 Hier findet ihr möglichkeiten:
 
 # In Deutschland
-* [Crossload](https://crossload.org/info/unterstuetzen) - Ehrenamt
-* [Ethnos](https://ethnos360.de/gehen/kurzzeit/it/) - Ehrenamt, Kurzzeit, Vollzeit
+* [Crossload](https://crossload.org/info/unterstuetzen) - Portal für Predigten, Vorträge und Lehrmaterial - Ehrenamt
+* [Ethnos](https://ethnos360.de/gehen/kurzzeit/it/) - Organisation mit Schwerpunkt auf unerreichten Volksgruppen - Ehrenamt, Kurzzeit, Vollzeit
 
 
 # International
-* [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org)
+* [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
 
 <!--
 
