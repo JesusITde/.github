@@ -1,6 +1,6 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
-Du bist Christ und in der IT?
+Du bist Christ und in der IT?  
 Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich? :)
 
 # In Deutschland
