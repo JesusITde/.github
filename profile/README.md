@@ -13,6 +13,7 @@ Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich? :)
 # International
 * [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
 * [TWR - Trans World Radio](https://twr.org/opportunities) - Radio und Online Medien
+* [Logos](https://www.logos.com/careers#current-openings) - Bibel Software
 <!--
 
 **Here are some ideas to get you started:**
