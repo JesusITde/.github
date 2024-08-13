@@ -1,5 +1,8 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
+Ihr wollt euch ehrenamtlich, teilzeit oder vollzeit einbringen?
+Hier findet ihr möglichkeiten:
+
 # In Deutschland
 * [Crossload](https://crossload.org/info/unterstuetzen) - Ehrenamt
 * [Ethnos](https://ethnos360.de/gehen/kurzzeit/it/) - Ehrenamt, Kurzzeit, Vollzeit
