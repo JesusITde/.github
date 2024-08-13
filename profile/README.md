@@ -1,9 +1,8 @@
-## Hallo an alle Entwickler aus dem deutschsprachigem Raum
+## Hallo an alle ITler aus dem deutschsprachigem Raum
 
 
-[Crossload](https://crossload.org/info/unterstuetzen)
-[Ethnos] 
-* https://ethnos360.de/gehen/kurzzeit/it/
+* [Crossload](https://crossload.org/info/unterstuetzen) - Ehrenamt
+* [Ethnos](https://ethnos360.de/gehen/kurzzeit/it/) - Ehrenamt, Kurzzeit, Vollzeit
 
 <!--
 
