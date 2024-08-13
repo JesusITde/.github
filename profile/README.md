@@ -1,8 +1,12 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
-
+# In Deutschland
 * [Crossload](https://crossload.org/info/unterstuetzen) - Ehrenamt
 * [Ethnos](https://ethnos360.de/gehen/kurzzeit/it/) - Ehrenamt, Kurzzeit, Vollzeit
+
+
+# International
+* [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org)
 
 <!--
 
