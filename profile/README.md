@@ -1,5 +1,10 @@
 ## Hallo an alle Entwickler aus dem deutschsprachigem Raum
 
+
+[Crossload](https://crossload.org/info/unterstuetzen)
+[Ethnos] 
+* https://ethnos360.de/gehen/kurzzeit/it/
+
 <!--
 
 **Here are some ideas to get you started:**
