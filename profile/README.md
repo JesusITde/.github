@@ -1,6 +1,6 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
-Ihr wollt euch ehrenamtlich, teilzeit oder vollzeit einbringen?
+Ihr wollt euch ehrenamtlich, teilzeit oder vollzeit einbringen?  
 Hier findet ihr möglichkeiten:
 
 # In Deutschland
