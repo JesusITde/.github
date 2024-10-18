@@ -22,7 +22,7 @@ Wir freuen uns von dir zu hören/lesen!
 * [1Bibel.de](https://1bibel.de) - Eine Bibel für jeden! Egal in welcher Sprache... (noch im Aufbau)  
 
 # Deutsche Github Repositories
-* [Die Markdown Bibel zum mitmachen .,.](https://github.com/JesusITde/markdownbibel)
+* [Markdown Bibel](https://github.com/JesusITde/markdownbibel) - die Bibel für ITler zum Mitgestalten... (noch im Aufbau)
 
 # International
 * [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
