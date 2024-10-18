@@ -11,11 +11,15 @@ Oder schreib uns gerne eine E-Mail an: kontakt[at]jesusit.de
 Wir freuen uns von dir zu hören/lesen!  
 
 # In Deutschland
-* [Crossload](https://crossload.org/info/unterstuetzen) - Portal für Predigten, Vorträge und Lehrmaterial - Ehrenamt
 * [Ethnos360](https://ethnos360.de/gehen/kurzzeit/it/) - Organisation mit Schwerpunkt auf unerreichten Volksgruppen - Ehrenamt, Kurzzeit, Vollzeit
+* [Crossload](https://crossload.org/info/unterstuetzen) - Portal für Predigten, Vorträge und Lehrmaterial - Ehrenamt
 * [ERF](https://www.erf.de/ueber-uns/jobs/31454) - Radio und Online Medien
 * [church.tools](https://church.tools/de/jobs/) - Verwaltungs- und Kommunikationslösungen für christliche Gemeinden
 * [Jobangebote bei Edenjobs für ITler](https://edenjobs.de/job-category/it-mediengestaltung-webentwicklung/)
+
+# Deutsche Seiten
+* [Unerreichte-Volksgruppen.de](https://www.unerreichte-Volksgruppen.de) - Gebetsanliegen zu unerreichten Volksgruppen (noch im Aufbau)  
+* [1Bibel.de](https://1bibel.de) - Eine Bibel für jeden! Egal in welcher Sprache... (noch im Aufbau)  
 
 # International
 * [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
