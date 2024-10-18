@@ -12,7 +12,7 @@ Wir freuen uns von dir zu hören/lesen!
 
 # In Deutschland
 * [Ethnos360](https://ethnos360.de/gehen/kurzzeit/it/) - Organisation mit Schwerpunkt auf unerreichten Volksgruppen - Ehrenamt, Kurzzeit, Vollzeit
-* [Equip360](https://equip360.org)
+* [Equip360](https://equip360.org) - Vorbereitung für Gemeindegründung unter unerreichten Volksgruppen
 * [Crossload](https://crossload.org/info/unterstuetzen) - Portal für Predigten, Vorträge und Lehrmaterial - Ehrenamt
 * [ERF](https://www.erf.de/ueber-uns/jobs/31454) - Radio und Online Medien
 * [church.tools](https://church.tools/de/jobs/) - Verwaltungs- und Kommunikationslösungen für christliche Gemeinden
