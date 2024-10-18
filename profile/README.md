@@ -1,7 +1,7 @@
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
 Du bist Christ und in der IT?  
-Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich? :)
+Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich! :)
 
 Komm vorbei in unseren [Discord Channel](https://discord.gg/BVkESdDj) und sprich direkt mit uns. 
 Wir beantworten dir deine Fragen sehr zeitnah.  
