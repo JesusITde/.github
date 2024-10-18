@@ -21,6 +21,9 @@ Wir freuen uns von dir zu hören/lesen!
 * [Unerreichte-Volksgruppen.de](https://www.unerreichte-Volksgruppen.de) - Gebetsanliegen zu unerreichten Volksgruppen (noch im Aufbau)  
 * [1Bibel.de](https://1bibel.de) - Eine Bibel für jeden! Egal in welcher Sprache... (noch im Aufbau)  
 
+# Deutsche Github Repositories
+* [Die Markdown Bibel zum mitmachen .,.](https://github.com/JesusITde/markdownbibel)
+
 # International
 * [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
 * [TWR - Trans World Radio](https://twr.org/opportunities) - Radio und Online Medien
