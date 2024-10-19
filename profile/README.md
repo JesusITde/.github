@@ -1,3 +1,7 @@
+"Gott hat jedem von euch Gaben geschenkt, mit denen ihr einander dienen sollt. 
+Setzt sie gut ein, damit sichtbar wird, wie vielfältig Gottes Gnade ist."  
+1. Petrus 4,10
+
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
 Du bist Christ und in der IT?  
