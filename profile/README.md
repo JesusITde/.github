@@ -3,7 +3,7 @@ Setzt sie gut ein, damit sichtbar wird, wie vielfältig Gottes Gnade ist." - 1. 
 
 ## Hallo an alle ITler aus dem deutschsprachigem Raum
 
-Du bist Christ und arbeitest in der IT?  
+Du bist Christ und arbeitest in der IT oder bist technisch begabt?  
 Ehrenamtlich oder Hauptamtlich - ob wenig oder viel Zeit - wir suchen dich! :)
 
 Komm vorbei in unseren [Discord Channel](https://discord.gg/BVkESdDj) und sprich direkt mit uns. 
