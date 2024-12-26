@@ -26,7 +26,8 @@ Wir freuen uns von dir zu hören/lesen!
 * [1Bibel.de](https://1bibel.de) - Eine Bibel für jeden! Egal in welcher Sprache... (noch im Aufbau)  
 
 # Deutsche Github Repositories
-* Folgen...
+* [Software Whitelist](https://github.com/JesusITde/SoftwareWhitelist) - Nutzbare Software, Tools und Software mit weitestgehend geringem Risiko
+* Weitere folgen...
 
 # International
 * [SIL Github](https://github.com/sillsdev/) - [Webseite](https://software.sil.org) - Organisation für Bibelübersetzung und Spracherforschung
