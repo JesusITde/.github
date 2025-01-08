@@ -34,10 +34,10 @@ Wir freuen uns von dir zu hören/lesen!
 * [TWR - Trans World Radio](https://twr.org/opportunities) - Radio und Online Medien
 * [Logos](https://www.logos.com/careers#current-openings) - Bibel Software
 
-
+<!--
 # Hilfreiche Tools
 * [FlowProtocol 2](https://github.com/JesusITde/FlowProtocol2) - Software für einfache Workflows
-<!--
+
 
 **Here are some ideas to get you started:**
 
