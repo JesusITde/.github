@@ -36,7 +36,7 @@ Wir freuen uns von dir zu hören/lesen!
 
 
 # Hilfreiche Tools
-* [FlowProtocol 2]([https://www.logos.com/careers#current-openings](https://github.com/JesusITde/FlowProtocol2)) - Software für einfache Workflows
+* [FlowProtocol 2](https://github.com/JesusITde/FlowProtocol2) - Software für einfache Workflows
 <!--
 
 **Here are some ideas to get you started:**
